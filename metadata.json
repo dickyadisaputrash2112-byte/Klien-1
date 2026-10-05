@@ -1,0 +1,6 @@
+{
+  "name": "Bimbel Finance & Invoice Hub",
+  "description": "Sistem administrasi keuangan bimbel: manajemen invoice siswa, dashboard analitik pendapatan, ekspor laporan PDF dan Excel/Google Sheets, serta pengiriman bukti pembayaran via email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
